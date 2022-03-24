@@ -11,7 +11,7 @@ versions:
   ghes: '*'
   ghae: '*'
   ghec: '*'
-shortTitle: Set your username
+shortTitle: Set your pyem682
 ---
 ## About Git usernames
 You can change the name that is associated with your Git commits using the `git config` command. The new name you set will be visible in any future commits you push to {% data variables.product.product_name %} from the command line. If you'd like to keep your real name private, you can use any text as your Git username.
